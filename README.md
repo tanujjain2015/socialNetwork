@@ -14,6 +14,10 @@ WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 Mock-Up. 
 
+Git Hub URL: https://github.com/tanujjain2015/socialNetwork 
+Video Recording URL : Recording is divided into two parts
+    URL1 - > https://drive.google.com/file/d/1vDcKpvey-tChlr8zKJ3pNTDnayQh7Jp1/view 
+    URL2 ->  https://drive.google.com/file/d/1-miXixcYmbgMLifGIVZRsDrGcIBLMqad/view
 
 API Implemented: 
 /api/users
