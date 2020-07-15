@@ -12,6 +12,5 @@ router.route('/:id/reaction').post(addReaction).delete(removeReaction);
 
 router.route('/:id/reaction/:reactionId').delete(removeReaction);
 
-//router.route('/reaction').get(getAllReaction);
 
 module.exports = router;
